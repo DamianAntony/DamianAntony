@@ -1,5 +1,6 @@
 # 💫 About Me:
 i'm a passionate frontend dev
+<br>
 i'm currently working on frontend projects
 
 
